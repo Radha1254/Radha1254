@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Radha Jadon, I’m a third-year Computer Science student with a strong interest in software engineering and full-stack web development. I have hands-on experience building scalable web applications using technologies like JavaScript, React.js, Node.js, Express.js, and MongoDB. I am proficient in Java and Data Structures & Algorithms, and I enjoy solving coding problems while continuously improving my problem-solving skills. I have built projects such as an Airbnb clone and a weather application, where I worked on backend development, REST APIs, authentication, and efficient data handling. Currently, I am focused on strengthening my backend development skills and preparing for software engineering internship opportunities, and I am also open to collaborating on real-world projects and learning from other developers.
 
 
